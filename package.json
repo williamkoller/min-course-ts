@@ -1,0 +1,17 @@
+{
+  "name": "mini-course-ts",
+  "version": "1.0.0",
+  "description": "Mini Course TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only src/app.ts"
+  },
+  "author": "William Koller",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.57"
+  },
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
+}

@@ -4,7 +4,7 @@
   "description": "Mini Course TypeScript",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev --respawn --transpile-only src/app.ts"
+    "start": "ts-node-dev --respawn --transpile-only "
   },
   "author": "William Koller",
   "license": "MIT",
